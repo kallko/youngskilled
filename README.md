@@ -19,8 +19,8 @@ Hint: the layout file is in `app/Resources/views/base.html.twig`
 
 3. The "Notify!" button should create a notification that lasts a moment(1 second or so) and disappear completely from the DOM, but it doesn't work. Please fix.
 Hint: the HTML with the button is in: `app/Resources/views/default/index.html.twig`
-
-4. For under 767px the menu should be converted to "hamburger" icon and expand when touched. both hamburger icon and "go to cart" link should be the only ones visible on resolution under 767px. 
+For under 767px the menu should be converted to "hamburger" icon and expand when touched. both hamburger icon and "go to cart"
+4.  link should be the only ones visible on resolution under 767px.
 
 5. Make "Add Product to Cart" increment the number in "Go to checkout". That number should not lose its value after page refresh
 
@@ -35,3 +35,22 @@ Hint: HTML for that page is in `src/AppBundle/Resources/views/Checkout/cart.html
 
 **Nice-to-Have**
 - BEM (http://getbem.com/naming/) in the project structure
+
+http://ryanchristiani.com/getting-started-with-gulp-and-sass/
+https://www.npmjs.com/package/gulp-sass
+https://www.npmjs.com/package/gulp-install
+https://github.com/gulpjs/gulp/blob/master/docs/recipes/minified-and-non-minified.md
+
+
+http://www.hongkiat.com/blog/css-sticky-position/
+http://demo.hongkiat.com/css-sticky-position/
+https://webdesign.tutsplus.com/tutorials/sticky-positioning-with-nothing-but-css--cms-24042
+http://htmlhook.ru/position-sticky.html
+http://demo.htmlhook.ru/css3/position/sticky.htm
+http://htmlhook.ru/position-sticky.html
+http://5.live-drive.ru/
+https://opencartforum.com/files/file/1514-sticky-menu-vqmod/
+
+http://api.jquery.com/fadeout/
+
+https://api.jquery.com/each/

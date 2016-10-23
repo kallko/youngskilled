@@ -3,3 +3,6 @@ app/config/parameters.yml
 bin/
 vendor/
 web/bundles/
+app/logs
+.idea
+node_modules
